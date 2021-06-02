@@ -1,7 +1,9 @@
 # NODE-API-MODEL
 
-This project is a basic node API model for you
+This project is a boilerplate of a basic node API model for you
 if you want to start a new RESTFUL API with node it's perfect for you 
+
+Node|express|MongoDB
 
 ## Installation
 
