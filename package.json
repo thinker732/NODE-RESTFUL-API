@@ -14,8 +14,11 @@
   "author": "BAED",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
-    "mongoose": "^5.12.12"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.12",
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",

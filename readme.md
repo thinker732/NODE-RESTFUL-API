@@ -1,8 +1,8 @@
 # NODE-API-MODEL
 
 This project is a boilerplate of a basic node API model for you
-if you want to start a new RESTFUL API with node it's perfect for you 
-
+if you want to start a new RESTFUL API with node and mongoose it's perfect for you if you just need a model to start 
+(with authentification (Bearer))
 Node|express|MongoDB
 
 ## Installation
