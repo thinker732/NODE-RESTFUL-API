@@ -9,13 +9,14 @@ Node|express|MongoDB
 
 Use the package manager [npm](https://www.npmjs.com/) 
 you also need [nodejs](https://nodejs.org/en/)
-to install model.
+and [mongodb](https://www.mongodb.com/try/download/community)
+if you want to use the model.
 
 but i think you already know that
 
 ## Usage
 
-Install Noe mudules
+Install Node modules
 ```node
 npm install
 ```
@@ -30,6 +31,16 @@ create and config .env File
     echo "MONGODB_URL=mongodb://127.0.0.1:27017/database_name" >> ./config/dev.env
     echo "DEBUG_MODE=true" >> ./config/dev.env
     
+```
+
+launch the dev environment 
+```node
+npm run dev
+```
+
+launch the Test environment 
+```node
+npm run dev
 ```
 
 ## Contributing
